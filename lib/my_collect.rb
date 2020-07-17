@@ -1,4 +1,4 @@
 def my_collect(array) 
-  counter += 1
+  i = 0
 end
 
